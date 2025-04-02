@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @vigoraes
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning php
-- 💞️ I’m looking to collaborate on projects with collaborators that help me to get more knowledgement
 - 📫 How to reach me joao.vigoraes@gmail.com
 
 <!---
